@@ -1,0 +1,14 @@
+% my data 
+
+@relation employee
+
+@attribute empId numeric
+@attribute firstname string
+@attribute lastname string
+@attribute phone numeric
+
+@data
+589,Mark,Wood,7337246405
+665,Dvid,Bristol,7337246405
+709,Mary,Manning,7337246405
+845,Alex,Ross,9515813523
